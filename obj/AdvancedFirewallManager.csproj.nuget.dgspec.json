@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\c#\\AdvancedFirewallManager\\AdvancedFirewallManager.csproj": {}
+    "C:\\c#\\AdvancedFirewallManager\\AdvancedFirewallManager\\AdvancedFirewallManager.csproj": {}
   },
   "projects": {
-    "C:\\c#\\AdvancedFirewallManager\\AdvancedFirewallManager.csproj": {
-      "version": "1.0.0",
+    "C:\\c#\\AdvancedFirewallManager\\AdvancedFirewallManager\\AdvancedFirewallManager.csproj": {
+      "version": "2.0.0",
       "restore": {
-        "projectUniqueName": "C:\\c#\\AdvancedFirewallManager\\AdvancedFirewallManager.csproj",
+        "projectUniqueName": "C:\\c#\\AdvancedFirewallManager\\AdvancedFirewallManager\\AdvancedFirewallManager.csproj",
         "projectName": "AdvancedFirewallManager",
-        "projectPath": "C:\\c#\\AdvancedFirewallManager\\AdvancedFirewallManager.csproj",
+        "projectPath": "C:\\c#\\AdvancedFirewallManager\\AdvancedFirewallManager\\AdvancedFirewallManager.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\c#\\AdvancedFirewallManager\\obj\\",
+        "outputPath": "C:\\c#\\AdvancedFirewallManager\\AdvancedFirewallManager\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
